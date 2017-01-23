@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="common_objects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/hibernate-core-5.2.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/hibernate-commons-annotations-5.0.1.Final.jar!/" />
+      <root url="jar://C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/jboss-logging-3.3.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/jsr250-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/cdi-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/cdi-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/classmate-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/el-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/geronimo-jta_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/jandex-2.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/cdi-api-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../common_business_objects/lib/cdi-api-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
